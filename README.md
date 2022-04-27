@@ -16,4 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigersuliu&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="rigersuliu" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rigersuliu&show_icons=true&locale=en&theme=synthwave" alt="rigersuliu" /></p>
