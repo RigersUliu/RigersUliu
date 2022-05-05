@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Rigers Uliu</h1>
 <h3 align="center">A passionate Frontend and Game Developer!😄</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rigersuliu" alt="rigersuliu" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rigersuliu" alt="rigersuliu"/></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,3 @@
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rigersuliu&show_icons=true&locale=en&theme=synthwave" alt="rigersuliu" /></p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rigersuliu&label=Profile%20views&color=0e75b6&style=flat" alt="rigersuliu" /> </p>
