@@ -75,7 +75,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RigersUliu&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="center" /></div>  
 <br/> 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RigersUliu&hide_border=true&layout=compact&theme=synthwave" align="center" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RigersUliu&hide_border=true&layout=compact&theme=synthwave"/>  </div>
 
 <br/>  
 <br/>  
