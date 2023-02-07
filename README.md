@@ -1,3 +1,5 @@
+<img align="center" src="./images/github-header-image.png" alt="rigersuliu" />
+
 <h1 align="center">Hi 👋, I'm Rigers</h1>
 <h3 align="center">A Creative Developer</h3>
 
