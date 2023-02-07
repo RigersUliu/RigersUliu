@@ -1,7 +1,6 @@
 <img align="center" src="./Images/github-header-image.png" alt="rigersuliu" />
 
-<h1 align="center">Hi 👋, I'm Rigers</h1>
-<h3 align="center">A Creative Developer</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigersuliu&label=Profile%20views&color=0e75b6&style=flat" alt="rigersuliu" /> </p>
 
